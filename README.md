@@ -1,2 +1,2 @@
-# Kalyan-Jewellers-Clone
-A responsive front-end clone of the Kalyan Jewellers website built using HTML, CSS, and JavaScript. Features a modern UI, navigation bar, banners, product sections, and footer with a focus on clean design, responsiveness, and improved front-end development skills.
+Kalyan Jewellers Clone
+✨ A pixel-perfect replica of Kalyan Jewellers’ website! Built with HTML, CSS & JS, featuring interactive navigation, responsive banners, product carousels & elegant UI. Perfect for showcasing front-end skills and real-world website replication.
